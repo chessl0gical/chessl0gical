@@ -16,7 +16,7 @@
 # Tutorial in common sense- Coding does not impress anyone in 2026 an beyond. Ai can do the same work a thousand times faster and smarter. Lunatic youtubers constantly try to say that ai is horrid at coding. Meanwhile, in reality, ai gets better at a profoundly rapid rate and is far superior to the LIMITED fragile human brain. Vile pudding brain humans must accept ai. Zero tolerance for all delusional ai haterz.   Weeeeeeee! 
 
 
-
+# This paragraph can change your life if you "get" it. Listen up. To make awesome rust apps, you MUST focus on giving ai the right prompt. If you are stupid in general, wou will make a half assed prompt and get a half assed app in return. IF you are wise and get it, spend time making the right prompt and you can have ai make awesome apps. WHEN you have an awesome prompt- a very detailed set of instructions that helps ai make the exact type of app you love, simply save the propmt so you can make slightly different versions of the app in the future. This seems obvious at first but it is the absolute key to not knowing how to code to instantly cranking out very good apps. 
 
 ![zz1](https://github.com/user-attachments/assets/f7190790-67c3-450c-852d-47a4a3698fd9)
 
