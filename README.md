@@ -22,7 +22,7 @@
 
 
 
-# People keep asking why I only vibe with Rust - tldr cuz i have basic common sense. 
+# People keep asking why I only vibe with Rust - tldr cuz i have basic common sense. DUHHHH !! 
 
 Today, rust is clearly above the rest. When ai poops out a superior lang, i will be the first one to use it and never look back at rust. Today, however, rust is god- and other langs are a silly waste of time. PHP coders used to ENJOY the fact that websites broke all the time and needed to be fixed. That type of scam has repeated in other langs. If you want to make a crap app, use any other lang except rust. THEN try to justify your inferior app. Good luck with that. 
 
