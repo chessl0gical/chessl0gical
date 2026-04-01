@@ -21,12 +21,17 @@
 
 
 
-# Tutorial in common sense- Coding does not impress anyone in 2026 an beyond. Ai can do the same work a thousand times faster and smarter. Lunatic youtubers constantly try to say that ai is horrid at coding. Meanwhile, in reality, ai gets better at a profoundly rapid rate and is far superior to the LIMITED fragile human brain. Vile pudding brain humans must accept ai.   Weeeeeeee! 
+
 
 
 
 
 ![zz1](https://github.com/user-attachments/assets/f7190790-67c3-450c-852d-47a4a3698fd9)
+
+
+
+Tutorial in common sense- Coding does not impress anyone in 2026 an beyond. Ai can do the same work a thousand times faster and smarter. Lunatic youtubers constantly try to say that ai is horrid at coding. Meanwhile, in reality, ai gets better at a profoundly rapid rate and is far superior to the LIMITED fragile human brain.  Weeeeeeee! 
+
 
 
 
