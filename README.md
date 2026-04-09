@@ -30,7 +30,7 @@
 
 
 
-# People keep asking why I only vibe with Rust🦀 - tldr cuz i have basic common sense. DUHHHH !! 
+# People keep asking why I only vibe with Rust🦀 - (tldr cuz i have basic common sense. DUHHHH !!) 
 **Rust + AI: The Ultimate Power Couple That Makes Coding Accessible to Everyone (And Why Every Other Language Is Now Just Coping)**
 
 Look, the haters love to say two things: “AI sucks at coding” and “Rust is annoying because everyone hypes it.” Both takes are dead wrong. AI and Rust work together like a dream team that finally lets normal humans—non-coders, hobbyists, weekend warriors—build real, production-grade apps without a CS degree or a full-time dev team.
