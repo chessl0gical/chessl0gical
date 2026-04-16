@@ -24,6 +24,17 @@
 ![pep](https://github.com/user-attachments/assets/1c6e45f3-d4a1-4b0f-b02b-625bf8c2c282)
 
 
+
+# Learning to code is just silly 
+Recursive self-improvement (RSI) — where AI iteratively improves its own code, architecture, and capabilities without heavy human input — represents a potential tipping point. If (or when) it fully kicks in, the pace of AI advancement could accelerate dramatically, and many routine human coding tasks could become trivial or irrelevant. In that scenario, yes, a lot of traditional "human coder" work might start to look outdated or laughable compared to what autonomous AI systems could achieve.
+
+
+
+
+
+
+
+
 **Rust + AI: The Practical Power Combo That Makes High-Performance, Safe Coding Accessible to Everyone**
 
 Here’s the straightforward truth in 2026: AI has made software development dramatically more accessible, but raw AI output still needs guardrails to be reliable in production. Rust paired with AI delivers exactly that combination—fast, memory-safe, concurrent code that regular developers, hobbyists, and even non-professional coders can ship with confidence. No CS degree required.
