@@ -25,7 +25,7 @@
 
 
 
-# Tech streamers are laughable ass clowns. 
+# Anti ai tech streamers are laughable ass clowns. 
 
 Streamers/youtubers of all coding levels like to knock ai. ALL of them make viewers stupider every stream they make. The opinions of a haughty person learning rust are utterly worthless and irrelevant. There are lots of rungs missing on the ladder. Drop out of school, have a low iq, start learning rust- it is DELUSIONAL to think they would ever be good enough to code anything of value. Ai is far ahead of the limited human brain, and ai only gets better. 
 
