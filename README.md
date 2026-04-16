@@ -32,11 +32,7 @@ Streamers/youtubers of all coding levels like to knock ai. ALL of them make view
 
 Recursive self-improvement (RSI) — where AI iteratively improves its own code, architecture, and capabilities without heavy human input — represents a potential tipping point. If (or when) it fully kicks in, the pace of AI advancement could accelerate dramatically, and many routine human coding tasks could become trivial or irrelevant. In that scenario, yes, a lot of traditional "human coder" work might start to look outdated or laughable compared to what autonomous AI systems could achieve.
 
-
-
-
-
-
+Delusional coders learning rust and streaming will say ai is all hype, and ai is just fear mongering. That is an unrealistic and haughty take, because ai is CLEARLY here to stay, and not learning ai is pure stupidity. Observing the concrete reality of ai is NOT fear mongering, it is logical thinking. 
 
 
 # Rust + AI: The Practical Power Combo That Makes High-Performance, Safe Coding Accessible to Everyone
