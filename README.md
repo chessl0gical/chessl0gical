@@ -34,7 +34,7 @@ Recursive self-improvement (RSI) — where AI iteratively improves its own code,
 
 Delusional coders learning rust and streaming will say ai is all hype, and ai is just fear mongering. That is an unrealistic and haughty take, because ai is CLEARLY here to stay, and not learning ai is pure stupidity. Observing the concrete reality of ai is NOT fear mongering, it is logical thinking. 
 
-No one needs to learn anything from delusional streamers any more. 5 minutes of asking ai the right questions can teach you more than an entire week of tech streamers videos. NO ONE gives a crap about irrelevant opinions. 
+No one needs to learn anything from delusional streamers any more. 5 minutes of asking ai the right questions can teach you more than an entire week of tech streamers videos. NO ONE gives a crap about irrelevant opinions. The great @lauriewired is the last good tech streamer out there, the only one of value. 
 
 
 # Rust + AI: The Practical Power Combo That Makes High-Performance, Safe Coding Accessible to Everyone
