@@ -32,9 +32,9 @@ Streamers/youtubers of all coding levels like to knock ai. ALL of them make view
 
 Recursive self-improvement (RSI) — where AI iteratively improves its own code, architecture, and capabilities without heavy human input — represents a potential tipping point. If (or when) it fully kicks in, the pace of AI advancement could accelerate dramatically, and many routine human coding tasks could become trivial or irrelevant. In that scenario, yes, a lot of traditional "human coder" work might start to look outdated or laughable compared to what autonomous AI systems could achieve.
 
-Delusional coders learning rust and streaming will say ai is all hype, and ai is just fear mongering. That is an unrealistic and haughty take, because ai is CLEARLY here to stay, and not learning ai is pure stupidity. Observing the concrete reality of ai is NOT fear mongering, it is logical thinking. Streamers who think they are the center of the universe are vile. 
+Delusional coders learning rust and streaming will say ai is all hype, and ai is just fear mongering. That is an unrealistic and haughty take, because ai is CLEARLY here to stay, and not learning ai is pure stupidity. Observing the concrete reality of ai is NOT fear mongering, it is logical thinking. Tech streamers who think they are the center of the universe are vile. 
 
-No one needs to learn anything from delusional streamers any more. 5 minutes of asking ai the right questions can teach you more than an entire week of tech streamers videos. NO ONE gives a crap about irrelevant opinions. The great @lauriewired is the last good tech streamer out there, the only one of value. I used to follow about every tech streamer. After ai, they are all laughable windbags. 
+No one needs to learn anything from delusional tech streamers any more. 5 minutes of asking ai the right questions can teach you more than an entire week of tech streamers videos. NO ONE gives a crap about irrelevant opinions. The great @lauriewired is the last good tech streamer out there, the only one of value. I used to follow about every tech streamer. After ai, they are all laughable windbags. 
 
 
 # Rust + AI: The Practical Power Combo That Makes High-Performance, Safe Coding Accessible to Everyone
